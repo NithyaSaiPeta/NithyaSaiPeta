@@ -3,8 +3,8 @@
 - 📍 Gurgaon
 - 🎓 Economics at IIT Kharagpur
 - 🏢 Data Scientist at FinBox
-- 🦾 Experienced in **Applied Machine Learning, NLP, Financial Engineering & Data Science**
-- 🏃‍♀️ Exploring **GenAI, RAG and Agentic AI Systems**
+- 🤖 Experienced in **Applied Machine Learning, NLP, Financial Engineering & Data Science**
+- 👩‍💻 Exploring **GenAI, RAG and Agentic AI Systems**
 - 💹 Strong understanding in **Derivatives, Equity valuation, Fixed Income, Portfolio Management and Optimization**
 
 ### Languages and Tools
